@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83c949ab-38ab-4520-9915-0238ed396bd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cajero/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cajero/Dinero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MetPrincipal/EjecutaT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MetPrincipal/MenuOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiEjemploJava/EjemploPersona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiEjemploJava/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiFecha/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiFecha/Fecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiSaludo/EjemploSaludo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiSaludo/Saludo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review/Aclaracion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review/EjemploAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review/MiClase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploSaludo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Saludo.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Dlvl1R8O3q5ul2W7USDjPhyMXP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.EjecutaT">
+    <configuration name="Aclaracion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Review.Aclaracion" />
+      <module name="PooJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Review.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiFecha.Date" />
+      <module name="PooJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MiFecha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjecutaT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MetPrincipal.EjecutaT" />
+      <module name="PooJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MetPrincipal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploPersona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiEjemploJava.EjemploPersona" />
+      <module name="PooJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MiEjemploJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiSaludo.EjemploSaludo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiSaludo.EjemploSaludo" />
+      <module name="PooJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjecutaT" />
+        <item itemvalue="Application.Date" />
+        <item itemvalue="Application.Aclaracion" />
+        <item itemvalue="Application.EjemploPersona" />
+        <item itemvalue="Application.MiSaludo.EjemploSaludo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83c949ab-38ab-4520-9915-0238ed396bd9" name="Changes" comment="" />
+      <created>1661286637767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661286637767</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
