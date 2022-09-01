@@ -4,7 +4,7 @@ public abstract class FigurasGeometricas {
     private String nombre;
     public abstract float area ();
 
-    public FigurasGeometricas(String nombre){
+    public FigurasGeometricas(){
         this.nombre = nombre + "area -> " + area();
     }
 
